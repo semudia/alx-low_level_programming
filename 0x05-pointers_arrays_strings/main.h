@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef MAIN_H_
+#define MAIN_H_
 
 /**
  * void prototypes
@@ -19,4 +19,4 @@ char *_strcpy(char *dest, char *src);
 int _atoi(char *str);
 int _putchar(char c);
 
-#endif /*MAIN_H*
+#endif /*MAIN_H_*/
